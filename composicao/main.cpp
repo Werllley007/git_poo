@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     RelogioComAlarme despertador;
-    despertador.setRelogioComAlarme("Entre Thiago", true, 6, 0, 0);
+    despertador.setRelogioComAlarme("bomdia acorda", true, 6, 0, 0);
     despertador.printRelogioComAlarme();
     
     return 0;
